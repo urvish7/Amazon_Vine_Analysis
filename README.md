@@ -60,6 +60,10 @@ The vine table in PG admin:
 
 ## Deliverable 2: Determine Bias of Vine Reviews:
 
+Using our knowledge of PySpark, Pandas, or SQL, we’ll determine if there is any bias towards reviews that were written as part of the Vine program. For this analysis, we'll determine if having a paid Vine review makes a difference in the percentage of 5-star reviews.
+
+The file which is used in this analysis: [Vine_Review_Analysis.ipynb](https://github.com/urvish7/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb)
+
 The Vine data frame for the analysis: 
 
 ![](https://github.com/urvish7/Amazon_Vine_Analysis/blob/main/ScreenShots/Dev2/vine_dataframe.png)
