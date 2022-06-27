@@ -88,13 +88,19 @@ The unpaid vine frame:
 
 ![](https://github.com/urvish7/Amazon_Vine_Analysis/blob/main/ScreenShots/Dev2/unpaid_vine_review.png)
 
+
+### Results:
+
+
 The total calculations of the paid reviews:
 
 ![](https://github.com/urvish7/Amazon_Vine_Analysis/blob/main/ScreenShots/Dev2/total_paidreview_count-percentage.png)
 
 
 
-As per the analysis the total paid review count is 94, the total paid revieew which are 5 stars are 48. The paid 5 star review percentage is 51.06%
+- As per the analysis the total paid review count is 94.
+- The total paid revieew which are 5 stars are 48.
+- The paid 5 star review percentage is 51.06%
 
 
 
@@ -102,7 +108,14 @@ The total calculation of the unpaid reviews:
 
 ![](https://github.com/urvish7/Amazon_Vine_Analysis/blob/main/ScreenShots/Dev2/unpaid_review_count-percentage.png)
 
-The total unpaid fivestar review count is 404471, however the unpaid 5 stars review count is 15663. When we need to calculate in percentage its 38.7%
+ - The total unpaid fivestar review count is 404471.
+ -  however the unpaid 5 stars review count is 15663. 
+ -  When we need to calculate in percentage its 38.7%
+
+
+The data frame of the 5 stars reviews:
+
+![](https://github.com/urvish7/Amazon_Vine_Analysis/blob/main/ScreenShots/Dev2/vine5star_dataframe.png)
 
 
 
