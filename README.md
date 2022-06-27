@@ -11,6 +11,10 @@ In this project, we’ll have access to approximately 50 datasets. Each one cont
 
 
 Using your knowledge of the cloud ETL process, we’ll create an AWS RDS database with tables in pgAdmin.
+
+The file which is used for this analysis is : [Amazon_Reviews_ETL.ipynb](https://github.com/urvish7/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb)
+
+
 Extracting the Amazon review data set into the data frames:
 
 ![](https://github.com/urvish7/Amazon_Vine_Analysis/blob/main/ScreenShots/Dev1/Amazonreviewdataframe.png)
@@ -56,6 +60,10 @@ The vine table in PG admin:
 
 ## Deliverable 2: Determine Bias of Vine Reviews:
 
+Using our knowledge of PySpark, Pandas, or SQL, we’ll determine if there is any bias towards reviews that were written as part of the Vine program. For this analysis, we'll determine if having a paid Vine review makes a difference in the percentage of 5-star reviews.
+
+The file which is used in this analysis: [Vine_Review_Analysis.ipynb](https://github.com/urvish7/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb)
+
 The Vine data frame for the analysis: 
 
 ![](https://github.com/urvish7/Amazon_Vine_Analysis/blob/main/ScreenShots/Dev2/vine_dataframe.png)
@@ -79,6 +87,25 @@ The paid vine dataframe:
 The unpaid vine frame:
 
 ![](https://github.com/urvish7/Amazon_Vine_Analysis/blob/main/ScreenShots/Dev2/unpaid_vine_review.png)
+
+The total calculations of the paid reviews:
+
+![](https://github.com/urvish7/Amazon_Vine_Analysis/blob/main/ScreenShots/Dev2/total_paidreview_count-percentage.png)
+
+
+
+As per the analysis the total paid review count is 94, the total paid revieew which are 5 stars are 48. The paid 5 star review percentage is 51.06%
+
+
+
+The total calculation of the unpaid reviews:
+
+![](https://github.com/urvish7/Amazon_Vine_Analysis/blob/main/ScreenShots/Dev2/unpaid_review_count-percentage.png)
+
+The total unpaid fivestar review count is 404471, however the unpaid 5 stars review count is 15663. When we need to calculate in percentage its 38.7%
+
+
+
 
 
 
