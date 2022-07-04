@@ -97,6 +97,8 @@ The total calculations of the paid reviews:
 ![](https://github.com/urvish7/Amazon_Vine_Analysis/blob/main/ScreenShots/Dev2/total_paidreview_count-percentage.png)
 
 
+![](https://github.com/urvish7/Amazon_Vine_Analysis/blob/main/ScreenShots/error.png)
+
 
 - As per the analysis the total paid review count is 94.
 - The total paid revieew which are 5 stars are 48.
