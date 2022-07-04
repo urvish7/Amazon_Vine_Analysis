@@ -116,14 +116,18 @@ The total calculation of the unpaid reviews:
 
 
  - How many Vine reviews and non-Vine reviews were there?
+ 
    Vine 94
   
 Non - Vine 40471:
   - How many Vine reviews were 5 stars? How many non-vine reviews were 5 stars?
+  
+  
     Vine- 48
     Non - Vine 15663
     
   - What percentage of Vine reviews were 5 stars ? What percentage of non -vine reviews  were 5 stars?
+  
   
     Vine 51.06%
     Non Vine 38.7 % 
