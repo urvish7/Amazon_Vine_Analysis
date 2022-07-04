@@ -113,12 +113,27 @@ The total calculation of the unpaid reviews:
  -  When we need to calculate in percentage its 38.7%
 
 
-The data frame of the 5 stars reviews:
+
+
+ - How many Vine reviews and non-Vine reviews were there?
+   Vine 94
+  
+Non - Vine 40471:
+  - How many Vine reviews were 5 stars? How many non-vine reviews were 5 stars?
+    Vine- 48
+    Non - Vine 15663
+    
+  - What percentage of Vine reviews were 5 stars ? What percentage of non -vine reviews  were 5 stars?
+  
+    Vine 51.06%
+    Non Vine 38.7 % 
+    
+    
+We can infer from the findings that there was no bias in the vine members' reviews for the video game dataset. Only 51 percent of our paid members have given us a 5-star rating, whereas the percentage of non-paying members who have done so is substantially higher at 38.7 percent. The disparity is too small.
+    
+ The data frame of the 5 stars reviews:
 
 ![](https://github.com/urvish7/Amazon_Vine_Analysis/blob/main/ScreenShots/Dev2/vine5star_dataframe.png)
-
-
-
 
 
 
